@@ -11,19 +11,21 @@
 	<customer id="2">
 		<name>Maddie Bohmann</name>
 		<order id="12">Mocha Latte</order>
-		<nutritional_value>
+		<details>
 			<size>8 oz</size>
 			<temperature>hot</temperature>
 			<customization>whipped cream</customization>
 			<picture>img.jpeg</picture>
+		</details>
 	</customer>
 	<customer id="3">
 		<name>Francine Ganley</name>
 		<order id="11">Cappucino</order>
-		<nutritional_value>
+		<details>
 			<size>12 oz</size>
 			<temperature>hot</temperature>
 			<customization>whipped cream, cocoa</customization>
 			<picture>img.jpeg</picture>
+		</details>
 	</customer>
 </customers>
