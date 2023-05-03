@@ -2,11 +2,12 @@
 	<customer id="1"> <!---this displays customer record by customer id-->
 		<name>Cassidy Assling</name>
 		<order id="13">Americano</order> <!--this displays customer record by either order or order id-->
-		<nutritional_value>
+		<details>
 			<size>20</size>
 			<temperature>hot</temperature>
 			<customization>whipped cream, sprinkles</customization>
 			<picture>img.jpeg</picture>
+		</details>
 	</customer>
 	<customer id="2">
 		<name>Maddie Bohmann</name>
