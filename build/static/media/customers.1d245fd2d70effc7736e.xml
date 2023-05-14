@@ -1,0 +1,32 @@
+<customers>
+	<customer id="1"> <!---this displays customer record by customer id-->
+		<name>Cassidy Assling</name>
+		<order id="13">Americano</order> <!--this displays customer record by either order or order id-->
+		<details>
+			<size>20</size>
+			<temperature>hot</temperature>
+			<customization>whipped cream, sprinkles</customization>
+			<picture>img.jpeg</picture>
+		</details>
+	</customer>
+	<customer id="2">
+		<name>Maddie Bohmann</name>
+		<order id="12">Mocha Latte</order>
+		<details>
+			<size>8 oz</size>
+			<temperature>hot</temperature>
+			<customization>whipped cream</customization>
+			<picture>img.jpeg</picture>
+		</details>
+	</customer>
+	<customer id="3">
+		<name>Francine Ganley</name>
+		<order id="11">Cappucino</order>
+		<details>
+			<size>12 oz</size>
+			<temperature>hot</temperature>
+			<customization>whipped cream, cocoa</customization>
+			<picture>img.jpeg</picture>
+		</details>
+	</customer>
+</customers>

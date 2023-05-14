@@ -1,0 +1,49 @@
+{
+  "customers":{
+    "customer":[
+    {
+       "@id": "1",
+       "name": "Cassidy Assling",
+       "order":{
+         "@id":"13",
+         "#text": "Americano"
+       },
+       "details": {
+        "size": "20",
+        "temperature": "hot",
+        "customization": "whipped cream, sprinkles",
+        "picture": "img.jpeg"
+      }
+    },
+    {
+        "@id": "2",
+        "name": "Maddie Bohman",
+        "order":{
+          "@id":"12",
+          "#text": "Mocha Latte"
+        },
+        "details": {
+         "size": "8 oz",
+         "temperature": "hot",
+         "customization": "whipped cream",
+         "picture": "img.jpeg"
+       }
+    },
+    {
+        "@id": "3",
+        "name": "Francine Ganley",
+        "order":{
+          "@id":"11",
+          "#text": "Cappucino"
+        },
+        "details": {
+         "size": "12 oz",
+         "temperature": "hot",
+         "customization": "whipped cream, cocoa",
+         "picture": "img.jpeg"
+       }
+    }
+]
+  }
+
+}
